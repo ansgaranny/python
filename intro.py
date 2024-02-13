@@ -1,0 +1,5 @@
+print("Welcome to python programming")
+print("Hello World")
+# print("This is Safarilab Mid Morning Class")
+print(5+15)
+print("5+12")
